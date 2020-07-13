@@ -1,3 +1,6 @@
+// Author: Gregor Mersich
+// Date: 13.07.2020
+
 #include <stdio.h>
 #include <iostream>
 
