@@ -6,6 +6,7 @@
 
 uint n1 = 0;
 uint n2 = 0;
+int sol = 0;
 
 int main(){
     std::cout << "Gib die erste Zahl ein: " << std::endl;
@@ -20,6 +21,19 @@ int main(){
     }
 
     for(int i = n2; i > 1; i--){
-        
+        if(!(n1%i)&&!(n2%i)){
+            sol = i;
+            break;
+        }
     }
+
+    if(sol > 0){
+        std::cout << "Der größte gemeinsame Teiler lautet: " << sol << std::endl;
+    }
+    
+    else{
+        std::cout << "Es gibt keinen gemeinsamen Teiler." << std::endl;
+    }
+
+    return(0);
 }
