@@ -16,6 +16,9 @@ int main(){
     if(num%2 == 0){
         num -= 1;
     }
+    else{
+        num -= 2;
+    }
 
     while(!isPrime(num)){
         num -= 2;
@@ -28,7 +31,7 @@ int main(){
 }
 
 bool isPrime(uint q){
-    for(int i = 2; i < q; i+=2){
+    for(int i = 3; i < q; i+=2){
         if(!(q%i)){
             return false;
         }
