@@ -36,6 +36,7 @@ int main(){
 
     std::cout << "The solution is: " << s << std::endl;
 
+    return(0);
 
 }
 
