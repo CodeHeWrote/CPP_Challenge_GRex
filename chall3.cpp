@@ -33,7 +33,6 @@ int main(){
     while(add_check(s, v)){
 
     }
-    // std::for_each(v.begin(), v.end(), [](uint &n){std::cout << n << std::endl;});
 
     std::cout << "The solution is: " << s << std::endl;
 
