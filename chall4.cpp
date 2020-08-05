@@ -1,6 +1,8 @@
 // Author: Gregor Mersich
 // Date: 03.08.2020
 
+// Challenge: A program that computes and prints the largest prime number that is smaller than a number provided by the user, which must be a positive integer.
+
 #include <stdio.h>
 #include <iostream>
 #include <vector>

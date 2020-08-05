@@ -1,6 +1,8 @@
 // Author: Gregor Mersich
 // Date: 03.08.2020
 
+// Challenge: A program that will, given two or more positive integers, calculate and print the least common multiple of them all.
+
 #include <stdio.h>
 #include <iostream>
 #include <vector>

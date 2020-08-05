@@ -1,6 +1,8 @@
 // Author: Gregor Mersich
 // Date: 13.07.2020
 
+// Challenge: A program that, given two positive integers, will calculate and print the greatest common divisor of the two.
+
 #include <stdio.h>
 #include <iostream>
 

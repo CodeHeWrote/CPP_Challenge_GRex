@@ -1,6 +1,8 @@
 // Author: Gregor Mersich
 // Date: 13.07.2020
 
+// Challenge: A program that calculates and prints the sum of all the natural numbers divisible by either 3 or 5, up to a given limit entered by the user.
+
 #include <stdio.h>
 #include <iostream>
 

@@ -1,3 +1,8 @@
+// Author: Gregor Mersich
+// Date: 04.08.2020
+
+// Challenge: A program that prints all the sexy prime pairs up to a limit entered by the user.
+
 #include <stdio.h>
 #include <iostream>
 

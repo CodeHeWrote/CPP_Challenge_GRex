@@ -1,3 +1,9 @@
+// Author: Gregor Mersich
+// Date: 05.08.2020
+
+// Challenge: A program that prints the list of all pairs of amicable numbers smaller than 1,000,000.
+
+
 #include <stdio.h>
 #include <iostream>
 #include <vector>

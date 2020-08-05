@@ -1,6 +1,8 @@
 // Author: Gregor Mersich
 // Date: 04.08.2020
 
+// Challenge: A program that prints all abundant numbers and their abundance, up to a number entered by the user.
+
 #include <stdio.h>
 #include <iostream>
 #include <iomanip>
