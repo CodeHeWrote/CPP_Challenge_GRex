@@ -6,7 +6,6 @@
 
 #include <stdio.h>
 #include <iostream>
-#include <vector>
 #include <map>
 #include <algorithm>
 
@@ -35,6 +34,8 @@ int main()
             std::cout << a << "   " << b << std::endl;
         }
     }
+
+    return(0);
 }
 
 int divSum(int num)
